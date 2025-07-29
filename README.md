@@ -85,8 +85,7 @@ A key technical decision was to use **Next.js** for the frontend to leverage its
         * **Password**: `password123`
 
         
-
-<img width="1270" height="1259" alt="Captura de pantalla 2025-07-27 a la(s) 11 24 39 p m" src="https://github.com/user-attachments/assets/a9f6da29-5aa3-4d2d-8893-c22c1cf844cd" />
+<img width="1270" height="1256" alt="Captura de pantalla 2025-07-28 a la(s) 7 02 03 p m" src="https://github.com/user-attachments/assets/daa6a6d6-f792-4c68-8b3e-8e4d175d449e" />
 
 
 
