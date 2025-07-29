@@ -83,3 +83,14 @@ A key technical decision was to use **Next.js** for the frontend to leverage its
     * Log in with the default administrator account:
         * **Email**: `admin@example.com`
         * **Password**: `password123`
+
+<img width="1270" height="1259" alt="Captura de pantalla 2025-07-27 a la(s) 11 24 39 p m" src="https://github.com/user-attachments/assets/a9f6da29-5aa3-4d2d-8893-c22c1cf844cd" />
+
+
+
+<img width="1270" height="1252" alt="Captura de pantalla 2025-07-27 a la(s) 11 25 18 p m" src="https://github.com/user-attachments/assets/6db0a5f5-7dd9-415a-9fcc-85526d434b23" />
+
+
+
+<img width="1270" height="1256" alt="Captura de pantalla 2025-07-27 a la(s) 11 26 06 p m" src="https://github.com/user-attachments/assets/f4590e30-5ba5-40a4-8c0e-bd629cf4b158" />
+
