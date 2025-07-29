@@ -30,7 +30,7 @@ A key technical decision was to use **Next.js** for the frontend to leverage its
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/AdrianGonzalez878/Adrian-Technical-Test.git](https://github.com/AdrianGonzalez878/Adrian-Technical-Test.git)
+    git clone https://github.com/AdrianGonzalez878/Adrian-Technical-Test.git
     cd Adrian-Technical-Test
     ```
 
@@ -62,7 +62,7 @@ A key technical decision was to use **Next.js** for the frontend to leverage its
     * Open a **new terminal**.
     * Navigate to the frontend directory from the project root:
         ```bash
-        cd path/to/Adrian-Technical-Test/frontend
+        cd frontend
         ```
     * Create a `.env.local` file and add your Google Maps API key:
         ```
